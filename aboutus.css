@@ -1,0 +1,48 @@
+p {
+    font-style: bold;
+    font-size: 23px;
+    color: #353a85;
+    padding: 16px;
+}
+
+.reason {
+    display: flex;
+    align-items: center;
+}
+
+.reason {
+    padding: 30px;
+}
+
+.container {
+    padding: 30px;
+}
+
+h1 {
+    color: #353a85;
+    font-size: 24px;
+}
+
+.scope {
+    flex-direction: row-reverse;
+    display: flex;
+    align-items: center;
+}
+
+.goals {
+    display: flex;
+    align-items: center;
+}
+
+.ourteamk {
+    flex-direction: row-reverse;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.ourteams {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
